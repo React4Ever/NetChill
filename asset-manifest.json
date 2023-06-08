@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NetChill/static/css/main.ca57846c.css",
+    "main.js": "/NetChill/static/js/main.8c4439a4.js",
+    "static/js/787.cd250a77.chunk.js": "/NetChill/static/js/787.cd250a77.chunk.js",
+    "index.html": "/NetChill/index.html",
+    "main.ca57846c.css.map": "/NetChill/static/css/main.ca57846c.css.map",
+    "main.8c4439a4.js.map": "/NetChill/static/js/main.8c4439a4.js.map",
+    "787.cd250a77.chunk.js.map": "/NetChill/static/js/787.cd250a77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.8c4439a4.js"
+  ]
+}

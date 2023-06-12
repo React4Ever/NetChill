@@ -18,3 +18,9 @@
 .row_poster:hover{
     transform: scale(1.08);
 }
+.row_poster_large{
+    max-height: 250px;
+}
+.row>h2{
+    margin-left: 20px;
+}

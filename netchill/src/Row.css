@@ -24,3 +24,9 @@
 .row>h2{
     margin-left: 20px;
 }
+@media screen and (max-height: 500px) {
+    .row>h2{
+        font-size: 20px;
+        font-weight: normal;
+    }
+}
